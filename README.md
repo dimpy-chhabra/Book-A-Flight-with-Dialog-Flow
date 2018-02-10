@@ -7,4 +7,4 @@ Connected to Slack with a Node JS server
 [![Screen Shot](Snapshots/ChatBot_Slack.PNG)
 
 And a locally hosted webpage
-(Snapshots/ChatBot_NodeJS.PNG)
+[![Screen Shot](Snapshots/ChatBot_NodeJS.PNG)
