@@ -1,7 +1,6 @@
-# Book-A-Flight-with-Dialog-Flow
-Basic Dialog Flow Agent to book Flights
+# Book a Flight with Dialog Flow
 
+This is basic Agent to book flight tickets.<br>
+It was built in [Dialog Flow console.](https://dialogflow.com)
 
-<p align="center">
-  <img src="Snapshots/ChatBot_Slack" width="350"/>
-</p>
+[![Screen Shot](Snapshots/ChatBot_Slack.png)
