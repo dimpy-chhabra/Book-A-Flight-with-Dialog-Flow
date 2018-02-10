@@ -1,0 +1,72 @@
+{
+  "id": "1d03390f-7ecf-474b-9c13-f3c094f89989",
+  "name": "Flights_Booking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "action_book",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5a82c349-a2b6-403c-81bf-9b730d2b9dc3",
+          "required": true,
+          "dataType": "@Airport",
+          "name": "Source",
+          "value": "$Source",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where are you travelling from?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ecd64aa5-966d-472d-9213-474da146502e",
+          "required": true,
+          "dataType": "@Airport",
+          "name": "Destination",
+          "value": "$Destination",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where are you headed to?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "fc2eacf6-00db-44a0-86a1-7c39a233d4c1",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "name": "On",
+          "value": "$On",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "When do you want to leave?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Very Well!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1518246760,
+  "fallbackIntent": false,
+  "events": []
+}

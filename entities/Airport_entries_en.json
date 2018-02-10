@@ -1,0 +1,19 @@
+[
+  {
+    "value": " Delhi",
+    "synonyms": [
+      "Delhi",
+      "New Delhi",
+      "Delhi Airport"
+    ]
+  },
+  {
+    "value": "Banglore",
+    "synonyms": [
+      "Banglore",
+      "Blr",
+      "blore",
+      "Bengaluru"
+    ]
+  }
+]

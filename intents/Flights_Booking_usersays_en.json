@@ -1,0 +1,106 @@
+[
+  {
+    "id": "f4897831-1667-4307-af9d-256c6be04e3d",
+    "data": [
+      {
+        "text": "Book a flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "alias": "Source",
+        "meta": "@Airport",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518246126
+  },
+  {
+    "id": "17715339-8b80-4215-9d96-ae4f85846ab0",
+    "data": [
+      {
+        "text": "Book a ticket from ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "alias": "Source",
+        "meta": "@Airport",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518245893
+  },
+  {
+    "id": "f853e294-9aa1-4fad-b799-fc74bd3be21a",
+    "data": [
+      {
+        "text": "Book a ticket to ",
+        "userDefined": false
+      },
+      {
+        "text": "Banglore",
+        "alias": "Destination",
+        "meta": "@Airport",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518245893
+  },
+  {
+    "id": "8b8a67cc-264f-4ae4-97b3-b4024934dc6c",
+    "data": [
+      {
+        "text": "Book a ticket from ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "alias": "Source",
+        "meta": "@Airport",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Banglore",
+        "alias": "Destination",
+        "meta": "@Airport",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "feb 20 th",
+        "alias": "On",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518245893
+  },
+  {
+    "id": "36ef3b08-86b6-4760-af7d-ab3f561f3f52",
+    "data": [
+      {
+        "text": "Book A ticket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518245893
+  }
+]
